@@ -1,8 +1,8 @@
 # Linux IT
 
 * Get Motherboard details
-	sudo dmidecode -t 2
+	`sudo dmidecode -t 2`
 
 * Extrar all RAR files recursively
-	unrar e -r -o- *.rar
+	`unrar e -r -o- *.rar`
 
