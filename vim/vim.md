@@ -8,6 +8,8 @@
 	`:K` (when cursor on word)
 
 3. **Jump to enclosing function:**
-4. 	`[[`
-5. 	
+	`[[`
+
+4. ** Search for complete word:**
+ 	'/\<word\>`
 
