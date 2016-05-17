@@ -10,6 +10,6 @@
 3. **Jump to enclosing function:**
 	`[[`
 
-4. ** Search for complete word:**
- 	'/\<word\>`
+4. **Search for complete word:**
+ 	`/\<word\>`
 
