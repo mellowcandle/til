@@ -12,4 +12,7 @@
 
 4. **Search for complete word:**
  	`/\<word\>`
+5. **Search and replace with confirmation:**
+	`:%s/old/new/gc`
+	
 
