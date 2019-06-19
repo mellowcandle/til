@@ -5,4 +5,7 @@
 
 * Extrar all RAR files recursively
 	`unrar e -r -o- *.rar`
+* Kill last task
+	`kill -9 %`
+	
 
