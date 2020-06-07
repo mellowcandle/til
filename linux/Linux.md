@@ -6,3 +6,5 @@
   `cat /proc/config.gz | gunzip > running.config`
 * Discovering tools used by scripts/compilation:
   `strace -fy -e execve -o commands.trace <cmdline>`
+* Generating patch difference between direcotries:
+  `diff -Naru ../<directory>.orig . > ../file.patch`
